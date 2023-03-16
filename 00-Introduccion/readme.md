@@ -12,15 +12,15 @@ En esta guía completa para principiantes, exploraremos los conceptos básicos d
 ---
 
 ## Temario
-1. Historia y propósito de Markdown
-2. ¿Por qué usar Markdown?
-3. Herramientas y editores de Markdown
-4. Sintaxis básica de Markdown
-5. Formateo avanzado en Markdown
-6. Compatibilidad y personalización de Markdown
-7. Consejos y mejores prácticas
-8. Convertir Markdown a otros formatos
-9. Recursos adicionales y aprendizaje
+1. [Historia y propósito de Markdown](#1-historia-y-propósito-de-markdown)
+2. [¿Por qué usar Markdown?](#2-¿por-qué-usar-markdown)
+3. [Herramientas y editores de Markdown](#3-herramientas-y-editores-de-markdown)
+4. [Sintaxis básica de Markdown](#4-sintaxis-básica-de-markdown)
+5. [Formateo avanzado en Markdown](#4-sintaxis-básica-de-markdown)
+6. [Compatibilidad y personalización de Markdown](#6-compatibilidad-y-personalización-de-markdown)
+7. [Consejos y mejores prácticas](#7-consejos-y-mejores-prácticas)
+8. [Convertir Markdown a otros formatos](#8-convertir-markdown-a-otros-formatos)
+9. [Recursos adicionales y aprendizaje](#9-recursos-adicionales-y-aprendizaje)
 
 ---
 
@@ -103,6 +103,6 @@ Al profundizar en estos recursos y practicar el uso de Markdown, mejorarás tus 
 
 ---
 
-[Volver al Indice](../readme.md)
-
 [Ir al capítulo 1. Encabezados](../01-Encabezados/readme.md)
+
+[Volver al Indice](../readme.md)
