@@ -1,3 +1,3 @@
 # curso Markdown
  
-[Introducción](./Introduccion/readme)
+[Introducción](./Introduccion/readme.md)
