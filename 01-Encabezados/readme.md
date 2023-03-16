@@ -1,3 +1,7 @@
+[Volver al Indice](../readme.md)
+
+---
+
 # 1. Encabezados
 
 ## 1Introducción
@@ -76,4 +80,6 @@ Visualización:
 - Mantén el texto de los encabezados breve y descriptivo para facilitar la navegación y comprensión del documento.
 - No uses demasiados encabezados de nivel 6, ya que pueden ser difíciles de distinguir del texto normal en algunos editores y aplicaciones.
 
+---
 
+[Volver al Indice](../readme.md)

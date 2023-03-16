@@ -1,4 +1,9 @@
-# Introducción a Markdown: una guía completa para principiantes
+
+[Volver al Indice](../readme.md)
+
+---
+
+# 0. Introducción a Markdown: una guía completa para principiantes
 
 Markdown es un lenguaje de marcado ligero y fácil de usar que permite a los usuarios crear y formatear texto de una manera más legible y eficiente. Su sintaxis simple e intuitiva facilita la creación de documentos bien estructurados y formateados sin necesidad de aprender etiquetas de marcado complejas como en HTML. Markdown es ampliamente utilizado en aplicaciones y plataformas como GitHub, GitLab, Reddit, foros, blogs y muchas otras.
 
@@ -97,3 +102,7 @@ A continuación, se presentan algunos recursos adicionales y enlaces útiles par
 Al profundizar en estos recursos y practicar el uso de Markdown, mejorarás tus habilidades y te convertirás en un experto en la creación y edición de documentos con este lenguaje de marcado ligero y versátil.
 
 ---
+
+[Volver al Indice](../readme.md)
+
+[Ir al capítulo 1. Encabezados](../01-Encabezados/readme.md)
