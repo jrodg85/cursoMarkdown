@@ -1,7 +1,7 @@
 
-[Ir al capítulo 1. Encabezados](../01-Encabezados/readme.md)
-
 [Volver al Indice](../readme.md)
+
+[Ir al capítulo 1. Encabezados](../01-Encabezados/readme.md)
 
 ---
 
@@ -81,3 +81,6 @@ Visualización:
 
 ---
 
+<!--[Ir al capítulo 1. Encabezados](../01-Encabezados/readme.md)-->
+
+[Volver al Indice](../readme.md)
