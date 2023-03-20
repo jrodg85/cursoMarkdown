@@ -1,6 +1,6 @@
-[Volver al Indice.](../readme.md)
+### [Volver al Indice.](../readme.md)
 
-[Ir a capítulo 0. Introducción](../00-Introduccion/readme.md)
+### [Ir a capítulo 0. Introducción](../00-Introduccion/readme.md)
 
 ---
 
@@ -11,7 +11,7 @@ Los encabezados en Markdown se utilizan para estructurar el contenido de un docu
 
 ---
 
-## Temario del capítulo.
+## Temario.
 
 1. Encabezados.
     1. [Encabezados de nivel 1-6.](#11-encabezados-de-nivel-1-6)
@@ -75,14 +75,14 @@ Sintaxis:
 ~~~
 ## _Encabezado de nivel 2 en cursiva_
 ### **Encabezado de nivel 3 en negrita**
-#### [Encabezado de nivel 4 con enlace](https://www.ejemplo.com)
+#### [Encabezado de nivel 4 con enlace a google](https://www.google.es)
 ~~~
 
 Visualización:
 
 ## _Encabezado de nivel 2 en cursiva_
 ### **Encabezado de nivel 3 en negrita**
-#### [Encabezado de nivel 4 con enlace](https://www.ejemplo.com)
+#### [Encabezado de nivel 4 con enlace a google](https://www.google.es)
 
 ---
 
@@ -94,7 +94,9 @@ Visualización:
 
 ---
 
-[Ir al capítulo 2. Párrafos y saltos de línea](../02-Parrafos-y-saltos-de-linea/readme.md)
+### [Inicio del capitulo 1. Encabezados.](#1-encabezados)
 
-[Volver al Indice.](../readme.md)
+### [Ir al capítulo 2. Párrafos y saltos de línea](../02-Parrafos-y-saltos-de-linea/readme.md)
+
+### [Volver al Indice.](../readme.md)
 

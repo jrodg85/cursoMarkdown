@@ -1,5 +1,5 @@
 
-[Volver al Indice](../readme.md)
+### [Volver al Indice](../readme.md)
 
 ---
 
@@ -16,7 +16,7 @@ En esta guía completa para principiantes, exploraremos los conceptos básicos d
 2. [¿Por qué usar Markdown?](#2-¿por-qué-usar-markdown)
 3. [Herramientas y editores de Markdown](#3-herramientas-y-editores-de-markdown)
 4. [Sintaxis básica de Markdown](#4-sintaxis-básica-de-markdown)
-5. [Formateo avanzado en Markdown](#4-sintaxis-básica-de-markdown)
+5. [Formateo avanzado en Markdown](#5-formateo-avanzado-en-markdown)
 6. [Compatibilidad y personalización de Markdown](#6-compatibilidad-y-personalización-de-markdown)
 7. [Consejos y mejores prácticas](#7-consejos-y-mejores-prácticas)
 8. [Convertir Markdown a otros formatos](#8-convertir-markdown-a-otros-formatos)
@@ -24,12 +24,12 @@ En esta guía completa para principiantes, exploraremos los conceptos básicos d
 
 ---
 
-### 1. Historia y propósito de Markdown
+## 1. Historia y propósito de Markdown
 Markdown fue creado por John Gruber y Aaron Swartz en 2004 con el objetivo de simplificar la escritura de contenido en línea y hacerlo más fácilmente legible. La idea era desarrollar un lenguaje de marcado que permitiera a los autores escribir usando un formato de texto simple que pudiera convertirse fácilmente a HTML.
 
 ---
 
-### 2. ¿Por qué usar Markdown?
+## 2. ¿Por qué usar Markdown?
 Algunas de las ventajas de usar Markdown incluyen:
 
 * Facilidad de uso: la sintaxis es simple e intuitiva.
@@ -40,7 +40,7 @@ Algunas de las ventajas de usar Markdown incluyen:
 
 ---
 
-### 3. Herramientas y editores de Markdown
+## 3. Herramientas y editores de Markdown
 Hay una amplia variedad de herramientas y editores disponibles para trabajar con Markdown. Algunos de los más populares incluyen:
 
 - Visual Studio Code
@@ -53,24 +53,24 @@ Hay una amplia variedad de herramientas y editores disponibles para trabajar con
 
 ---
 
-### 4. Sintaxis básica de Markdown
+## 4. Sintaxis básica de Markdown
 En esta sección, exploraremos la sintaxis básica de Markdown para elementos como encabezados, párrafos, énfasis, listas, enlaces, imágenes y tablas. Nos enfocaremos en cómo utilizar los diferentes caracteres de marcado para crear y formatear documentos de manera efectiva.
 
 ---
 
-### 5. Formateo avanzado en Markdown
+## 5. Formateo avanzado en Markdown
 Además de la sintaxis básica, también discutiremos cómo realizar un formateo más avanzado en Markdown, como listas de verificación, tablas personalizadas, bloques de citas anidados y cómo incrustar HTML en archivos de Markdown para lograr un mayor control sobre el formato y la apariencia de los documentos.
 
 ---
 
-### 6. Compatibilidad y personalización de Markdown
+## 6. Compatibilidad y personalización de Markdown
 Existen varias implementaciones y extensiones de Markdown, como CommonMark, GitHub Flavored Markdown (GFM) y MultiMarkdown, que agregan características adicionales o modifican el comportamiento de la sintaxis básica. Algunas plataformas en línea y aplicaciones de escritura también pueden tener su propia versión personalizada de Markdown. Es importante comprender las diferencias entre estas implementaciones y cómo funcionan en función del contexto en el que se utilizan.
 
 Para personalizar la apariencia de los documentos de Markdown, puedes utilizar hojas de estilo en cascada (CSS) cuando se convierten a HTML o aplicar temas en aplicaciones de escritura de Markdown que admiten la personalización visual.
 
 ---
 
-### 7. Consejos y mejores prácticas
+## 7. Consejos y mejores prácticas
 Al trabajar con Markdown, sigue estos consejos y mejores prácticas para garantizar una experiencia de escritura fluida y documentos bien estructurados:
 
 - Mantén la consistencia en el uso de la sintaxis de Markdown.
@@ -81,7 +81,7 @@ Al trabajar con Markdown, sigue estos consejos y mejores prácticas para garanti
 
 ---
 
-### 8. Convertir Markdown a otros formatos
+## 8. Convertir Markdown a otros formatos
 Markdown se puede convertir fácilmente a otros formatos de archivo, como HTML, PDF, Microsoft Word (DOCX) y más. Existen diversas herramientas y aplicaciones que permiten realizar estas conversiones, incluyendo:
 
 - Pandoc: un conversor de documentos universal de línea de comandos que admite una amplia variedad de formatos.
@@ -91,7 +91,7 @@ Markdown se puede convertir fácilmente a otros formatos de archivo, como HTML, 
 
 ---
 
-### 9. Recursos adicionales y aprendizaje
+## 9. Recursos adicionales y aprendizaje
 A continuación, se presentan algunos recursos adicionales y enlaces útiles para aprender más sobre Markdown y mejorar tus habilidades en el uso del lenguaje de marcado:
 
 - Documentación oficial de Markdown: [Daring Fireball](https://daringfireball.net/projects/markdown/)
@@ -103,6 +103,8 @@ Al profundizar en estos recursos y practicar el uso de Markdown, mejorarás tus 
 
 ---
 
-[Ir al capítulo 1. Encabezados](../01-Encabezados/readme.md)
+### [Inicio del capitulo 0. Introducción a Markdown](#0-introducción-a-markdown-una-guía-completa-para-principiantes)
 
-[Volver al Indice](../readme.md)
+### [Ir al capítulo 1. Encabezados](../01-Encabezados/readme.md)
+
+### [Volver al Indice](../readme.md)

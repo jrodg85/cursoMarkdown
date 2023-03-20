@@ -11,7 +11,7 @@ En Markdown, los párrafos y los saltos de línea ayudan a estructurar el conten
 
 ---
 
-Temario 
+## Temario 
 2. Párrafos y saltos de línea
     1. Párrafos
     2. Saltos de línea
@@ -81,6 +81,6 @@ Visualización:
 
 ---
 
-<!--[Ir al capítulo 1. Encabezados](../01-Encabezados/readme.md)-->
+[Ir al capítulo 3. Énfasis](../03-Enfasis/readme.md)
 
 [Volver al Indice](../readme.md)
