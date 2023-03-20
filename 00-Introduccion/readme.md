@@ -12,6 +12,7 @@ En esta guía completa para principiantes, exploraremos los conceptos básicos d
 ---
 
 ## Temario
+0. Introducción a Markdown: una guía completa para principiantes
 1. [Historia y propósito de Markdown](#1-historia-y-propósito-de-markdown)
 2. [¿Por qué usar Markdown?](#2-¿por-qué-usar-markdown)
 3. [Herramientas y editores de Markdown](#3-herramientas-y-editores-de-markdown)
