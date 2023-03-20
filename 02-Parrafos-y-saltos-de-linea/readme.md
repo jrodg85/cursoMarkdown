@@ -1,7 +1,7 @@
 
-[Volver al Indice](../readme.md)
+### [Volver al Indice](../readme.md)
 
-[Ir al capítulo 1. Encabezados](../01-Encabezados/readme.md)
+### [Ir al capítulo 1. Encabezados](../01-Encabezados/readme.md)
 
 ---
 
@@ -13,14 +13,14 @@ En Markdown, los párrafos y los saltos de línea ayudan a estructurar el conten
 
 ## Temario 
 2. Párrafos y saltos de línea
-    1. Párrafos
-    2. Saltos de línea
-    3. Párrafos con sangría
-    4. Consejos para el uso de párrafos y saltos de línea
+    1. [Párrafos.](#21-párrafos)
+    2. [Saltos de línea.](#22-saltos-de-línea)
+    3. [Párrafos con sangría.](#23-párrafos-con-sangría)
+    4. [Consejos para el uso de párrafos y saltos de línea.](#24-consejos-para-el-uso-de-párrafos-y-saltos-de-línea)
 
 ---
 
-## 2.1. Párrafos
+## 2.1. Párrafos.
 Los párrafos en Markdown se crean simplemente escribiendo texto en líneas separadas por una línea en blanco. Cuando se procesa el documento, Markdown convierte automáticamente las líneas separadas por una línea en blanco en párrafos.
 
 ~~~
@@ -39,7 +39,7 @@ Después de una línea en blanco, este es otro párrafo. Markdown reconoce la se
 
 ---
 
-## 2.2. Saltos de línea
+## 2.2. Saltos de línea.
 Para crear un salto de línea sin comenzar un nuevo párrafo, puedes insertar dos espacios al final de una línea y luego presionar "Enter" o "Return" en tu teclado. Esto creará una línea nueva sin el espacio adicional que normalmente se encuentra entre párrafos.
 
 Ejemplo:
@@ -57,7 +57,7 @@ Aquí hay un salto de línea sin comenzar un nuevo párrafo.
 
 ---
 
-## 2.3. Párrafos con sangría
+## 2.3. Párrafos con sangría.
 Si deseas agregar sangría a un párrafo, puedes utilizar el caracter de mayor que (>) al comienzo de una línea. Este caracter se utiliza comúnmente para crear bloques de citas, pero también puede servir como una herramienta para agregar sangrías.
 
 Ejemplo:
@@ -73,7 +73,7 @@ Visualización:
 
 ---
 
-## 2.4. Consejos para el uso de párrafos y saltos de línea
+## 2.4. Consejos para el uso de párrafos y saltos de línea.
 - Utiliza párrafos para dividir y organizar el contenido de tu documento de manera clara y lógica.
 - Evita crear párrafos demasiado largos, ya que pueden dificultar la lectura y comprensión del contenido.
 - Utiliza saltos de línea para separar elementos relacionados dentro de un párrafo, como elementos de una lista o pasos de un proceso.
@@ -81,6 +81,8 @@ Visualización:
 
 ---
 
-[Ir al capítulo 3. Énfasis](../03-Enfasis/readme.md)
+### [Inicio del capitulo 2. Párrafos y saltos de línea.](#2-párrafos-y-saltos-de-línea)
 
-[Volver al Indice](../readme.md)
+### [Ir al capítulo 3. Énfasis](../03-Enfasis/readme.md)
+
+### [Volver al Indice](../readme.md)

@@ -1,10 +1,8 @@
 # Curso MarkDown
-<<<<<<< Updated upstream:readme.md
  
 0. [Introducción.](./00-Introduccion/readme.md)
 1. [Encabezados.](./01-Encabezados/readme.md)
 2. [Párrafos y saltos de línea.](./02-Parrafos-y-saltos-de-linea/readme.md)
-=======
 
 ## Índice del Curso:
 
@@ -25,4 +23,4 @@
 4. [Consejos para el uso de encabezados.](./01-Encabezados/readme.md/#14-consejos-para-el-uso-de-encabezados)
 ### 2. [Párrafos y saltos de línea.](./02-Parrafos-y-saltos-de-linea/readme.md)
 ### 3. [Énfasis.](./03-Enfasis/readme.md)
->>>>>>> Stashed changes:README.md
+
