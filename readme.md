@@ -1,8 +1,6 @@
 # Curso MarkDown
  
-0. [Introducción.](./00-Introduccion/readme.md)
-1. [Encabezados.](./01-Encabezados/readme.md)
-2. [Párrafos y saltos de línea.](./02-Parrafos-y-saltos-de-linea/readme.md)
+---
 
 ## Índice del Curso:
 
@@ -22,5 +20,14 @@
 3. [Encabezados con énfasis y enlaces.](./01-Encabezados/readme.md/#13-encabezados-con-énfasis-y-enlaces)
 4. [Consejos para el uso de encabezados.](./01-Encabezados/readme.md/#14-consejos-para-el-uso-de-encabezados)
 ### 2. [Párrafos y saltos de línea.](./02-Parrafos-y-saltos-de-linea/readme.md)
+1. [Párrafos.](./02-Parrafos-y-saltos-de-linea/readme.md/#21-párrafos)
+2. [Saltos de línea.](./02-Parrafos-y-saltos-de-linea/readme.md/#22-saltos-de-línea)
+3. [Párrafos con sangría.](./02-Parrafos-y-saltos-de-linea/readme.md/#23-párrafos-con-sangría)
+4. [Consejos para el uso de párrafos y saltos de línea.](./02-Parrafos-y-saltos-de-linea/readme.md/#24-consejos-para-el-uso-de-párrafos-y-saltos-de-línea)
 ### 3. [Énfasis.](./03-Enfasis/readme.md)
-
+1. [Cursiva.](./03-Enfasis/readme.md/#31-cursiva)
+2. [Negrita.](./03-Enfasis/readme.md/#32-negrita)
+3. [Tachado.](./03-Enfasis/readme.md/#33-tachado)
+4. [Combinar énfasis.](./03-Enfasis/readme.md/#34-combinar-énfasis)
+5. [Subrayado de texto.](./03-Enfasis/readme.md/#35-subrayado-de-texto)
+6. [Consejos para el uso de énfasis.](./03-Enfasis/readme.md/#36-consejos-para-el-uso-de-énfasis)
